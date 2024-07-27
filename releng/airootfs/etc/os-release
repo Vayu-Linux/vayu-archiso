@@ -1,0 +1,11 @@
+NAME="Vāyu Linux"
+PRETTY_NAME="Vāyu Linux"
+ID=vayu
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://github.com/Vayu-Linux/"
+DOCUMENTATION_URL="https://github.com/Vayu-Linux/"
+SUPPORT_URL="https://github.com/Vayu-Linux/"
+BUG_REPORT_URL="https://github.com/Vayu-Linux/"
+PRIVACY_POLICY_URL="https://github.com/Vayu-Linux/"
+LOGO=archlinux-logo
