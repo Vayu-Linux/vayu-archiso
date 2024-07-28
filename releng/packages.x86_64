@@ -4,8 +4,15 @@ espeakup
 
 # Audio
 alsa-utils
+gst-plugin-pipewire
+libpulse
 livecd-sounds
+pipewire
+pipewire-alsa
+pipewire-jack
+pipewire-pulse
 sof-firmware
+wireplumber
 
 # Boot
 edk2-shell
@@ -34,6 +41,8 @@ base
 linux
 linux-firmware
 linux-firmware-marvell
+plasma-meta
+plasma-workspace
 
 # CPU
 amd-ucode
@@ -98,16 +107,15 @@ memtest86+-efi
 b43-fwcutter
 bind
 broadcom-wl
-dhclient
-dhcpcd
 dnsmasq
 ethtool
 iw
-iwd
 ldns
 linux-atm
 modemmanager
 ndisc6
+networkmanager
+network-manager-applet
 openconnect
 openvpn
 open-iscsi
@@ -147,6 +155,7 @@ zsh
 # Terminal
 foot-terminfo
 kitty-terminfo
+konsole
 rxvt-unicode-terminfo
 screen
 terminus-font
@@ -160,8 +169,12 @@ usbmuxd
 usbutils
 
 # Utilities
+ark
+bluez
 diffutils
 dmidecode
+dolphin
+firefox
 less
 nano
 vim
@@ -171,3 +184,14 @@ hyperv
 open-vm-tools
 qemu-guest-agent
 virtualbox-guest-utils-nox
+
+# Drivers
+xf86-video-amdgpu
+xf86-video-ati
+xf86-video-nouveau
+xf86-video-vmware
+libva-mesa-driver
+libva-intel-driver
+intel-media-driver
+vulkan-radeon
+vulkan-intel
