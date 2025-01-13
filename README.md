@@ -34,3 +34,11 @@ Vāyu Linux aims to provide a high-performance, user-friendly platform that empo
 ## Keywords
 
 Linux, Arch Linux, Gaming, Hacking, Development, Virtualization, Virtual Environments, KDE Plasma, Btrfs, Tor, Black Arch
+
+
+## Demo Video of Profile switching
+
+https://youtu.be/W-EP_Sw9WA4?si=bQ2QxzQxww3DWhxw
+
+
+
