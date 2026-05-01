@@ -40,5 +40,8 @@ Linux, Arch Linux, Gaming, Hacking, Development, Virtualization, Virtual Environ
 
 https://youtu.be/W-EP_Sw9WA4?si=bQ2QxzQxww3DWhxw
 
+## IEEE Research Paper 
+
+https://ieeexplore.ieee.org/document/10911195
 
 
